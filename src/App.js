@@ -64,8 +64,8 @@ const EXERCISES = [
   },
 ]
 
-const FINE_ICA = 50000
-const FINE_HFZ = 75000
+const FINE_ICA = 75000
+const FINE_HFZ = 50000
 
 function getWeekStart(date = new Date()) {
   const d = new Date(date)
